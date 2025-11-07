@@ -28,7 +28,7 @@ Universal Bot is released under the [Apache-2.0](LICENSE).
 [issues-shield]: https://img.shields.io/github/issues/Tiarait/AI-MUSE.svg?style=for-the-badge
 [issues-url]: https://github.com/Tiarait/Universal-Bot/issues
 [youtube-shield]: https://img.shields.io/badge/-YOUTUBE-red.svg?style=for-the-badge&logo=youtube&colorB=red
-[youtube-url]: https://www.youtube.com/watch?v=hNnQyZWJ6Ec
+[youtube-url]: https://www.youtube.com/@tiardev
 [coffee-shield]: https://img.shields.io/badge/-Bye_me_a_coffee-red.svg?style=for-the-badge&logo=buymeacoffee&colorB=grey
 [coffee-url]: https://www.buymeacoffee.com/tiarapps
 [tg-shield]: https://img.shields.io/badge/Telegram-POI%20bot-green?style=for-the-badge&labelColor=blue
