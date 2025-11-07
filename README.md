@@ -15,7 +15,7 @@ AI-powered Telegram Bot – multi-language bot for math calculations, media down
 ## ✅ Steps to Deploy Universal Bot with docker
 
 > [!CAUTION]
-> [Instruction](https://github.com/Tiarait/Universal-Bot/)
+> [Instruction](https://github.com/Tiarait/Universal-Bot/blob/main/Docker_instruction.md)
 
 # Dev stack
 > Python, Asyncio, Telebot, REST API
