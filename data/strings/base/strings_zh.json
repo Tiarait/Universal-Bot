@@ -1,0 +1,7 @@
+{
+  "base_desc_mp3": "从视频中提取音频，并以 MP3 文件返回。",
+  "base_tags_mp3": "audio, mp3, extract, video, convert, sound, voice, 音频, 提取",
+  "base_help_mp3": "<b>🎧 音频提取命令 /audio 或 /mp3</b>\n\n从任何视频中提取<b>音轨</b>并以 MP3 形式发送。\n\n<b>✅ 功能：</b>\n• 支持视频消息和回复。\n• 自动提取并转换为 MP3。\n• 保持高音质。",
+  "base_examples_mp3": "• 回复视频 → /mp3\n• 发送带字幕的视频 → /audio",
+  "base_desc_help_mp3": "🎧 /audio 或 /mp3 命令助手。"
+}

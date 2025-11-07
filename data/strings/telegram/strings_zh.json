@@ -1,0 +1,23 @@
+{
+  "telegram_error_too_long": "文本太长。请查看下方完整 JSON 文件。",
+  "telegram_desc_circle": "将任意视频转换为 Telegram 圆形视频（视频便笺）。",
+  "telegram_tags_circle": "vn, circle, video, note, telegram, round, converter, convert",
+  "telegram_help_circle": "<b🔵 圆形视频指令 /vn 或 /circle</b>\n\n将普通视频转换为 <b>圆形 Telegram 视频</b>。\n\n<b✅ 功能:</b>\n• 接受任何视频或回复视频\n• 自动裁剪为圆形格式\n\n<bℹ️ 提示:</b>\n• 视频将符合 Telegram 限制：最长 1 分钟，约 10MB，1:1 比例",
+  "telegram_examples_circle": "• 回复视频 → /vn\n• 带字幕发送视频 → /circle",
+  "telegram_desc_help_circle": "🔵 /vn 或 /circle 指令帮助。",
+  "telegram_desc_parse": "解析 Telegram 消息并返回 JSON 结构。",
+  "telegram_tags_parse": "parse, telegram, json, message, debug, inspect",
+  "telegram_help_parse": "<b🛠️ 解析指令 /parse 或 /inspect</b>\n\n分析消息并返回完整 <b>JSON</b> 结构。\n\n<b✅ 功能:</b>\n• 支持所有类型消息\n• 显示全部字段（ID，发送者，聊天，媒体等）\n• 适用于调试和 bot 开发\n\n<bℹ️ 提示:</b>\n• 输出为格式化 JSON",
+  "telegram_examples_parse": "• 回复消息 → /parse",
+  "telegram_desc_help_parse": "🛠️ /parse 指令帮助。",
+  "telegram_desc_voice": "将音频/视频转换为 Telegram 语音消息 (OGG/Opus)。",
+  "telegram_tags_voice": "voice, audio, video, mp3, telegram, converter, convert",
+  "telegram_help_voice": "<b🎙️ 语音指令 /voice</b>\n\n将音频转换为 Telegram 语音消息。\n\n<b✅ 功能:</b>\n• 接受任何音频或回复\n• 直接在聊天中发送结果",
+  "telegram_examples_voice": "• 回复音频 → /voice\n• 带字幕发送音频 → /voice",
+  "telegram_desc_help_voice": "🎙️ /voice 指令帮助。",
+  "telegram_desc_id": "显示用户或聊天的 Telegram ID 和信息。",
+  "telegram_tags_id": "id, user, chat, telegram, info, identifier, uid, contact, lookup",
+  "telegram_help_id": "<b🆔 ID 指令 /id</b>\n\n显示 <b>Telegram ID</b> 以及用户/聊天信息。\n\n<b✅ 功能:</b>\n• 适用于用户、bot 和群组\n• 回复时显示该用户信息",
+  "telegram_examples_id": "• /id — 显示当前聊天 ID\n• 回复用户 → /id\n• 回复联系人 → /id（电话, 国家, 链接）",
+  "telegram_desc_help_id": "🆔 /id 指令帮助。"
+}

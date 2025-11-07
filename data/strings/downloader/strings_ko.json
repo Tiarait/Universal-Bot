@@ -1,0 +1,10 @@
+{
+  "downloader_error_link_nf": "⚠️ 링크를 찾을 수 없습니다. /help_dl을 사용하세요.",
+  "downloader_error_source_ns": "⚠️ 지원되지 않는 소스입니다. /help_dl 참고.",
+  "downloader_error_media_nf": "⚠️ 미디어가 없습니다.",
+  "downloader_desc_dl": "TikTok, Instagram, Threads에서 영상을 다운로드합니다.",
+  "downloader_tags_dl": "다운로드, 비디오, tiktok, instagram, threads, 미디어, reels, saver",
+  "downloader_help_dl": "<b>🎬 다운로드 명령 /dl /download</b>\n\n<b>TikTok</b>, <b>Instagram</b>, <b>Threads</b>에서 <b>영상/오디오</b> 다운로드.\n\n<b>✅ 기능:</b>\n• 링크 붙여넣기.\n• 플랫폼 자동 감지.\n• 파일 또는 다운로드 링크 제공.\n• IG, Threads, TikTok 지원.\n\n<b>ℹ️ 참고:</b>\n• 로그인/ API 불필요.",
+  "downloader_examples_dl": "• /dl https://www.tiktok.com/@creator/video/12345\n• /dl https://www.instagram.com/reel/xyz/ mp3\n• /dl https://www.threads.net/post/abc/",
+  "downloader_desc_help_dl": "🎬 /dl 명령 도움말."
+}

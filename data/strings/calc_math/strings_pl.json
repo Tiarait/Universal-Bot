@@ -1,0 +1,13 @@
+{
+  "calc_math_desc_math": "Wykonuje podstawowe i zaawansowane operacje matematyczne: arytmetyka, potęgi, pierwiastki, trygonometria, logarytmy, własne funkcje i konwersje jednostek.",
+  "calc_math_tags_math": "kalkulator, matematyka, arytmetyka, funkcje, trygonometria, logarytm, konwersja",
+  "calc_math_help_math": "<b>📐 Komenda /math</b>\nZaawansowane obliczenia w czacie.\n\n<b>✅ Funkcje:</b>\n• + - * /\n• sqrt(), ^\n• sin(), cos(), tan()\n• log(), ln()\n• abs()\n• pct()\n• pi, e\n• Funkcje własne\n• 0b…, 0x…\n• Jednostki\n\n<b>💡 Uwaga:</b> '**' = potęga",
+  "calc_math_desc_help_math": "📘 Pomoc /math.",
+  "calc_math_desc_solve": "Rozwiązuje równania algebraiczne automatycznie.",
+  "calc_math_tags_solve": "rozwiąż, równanie, algebra",
+  "calc_math_help_solve": "<b>🧮 /solve</b> — automatyczne rozwiązywanie, wiele równań, wszystkie wyniki.",
+  "calc_math_desc_help_solve": "📘 Pomoc /solve.",
+  "math_error_calc_empty": "⚠️ Brak wyrażenia.",
+  "math_error_solve_empty": "⚠️ Brak równania.",
+  "math_error_calc_cant": "Błędne wyrażenie."
+}

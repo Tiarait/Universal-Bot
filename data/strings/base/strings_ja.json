@@ -1,0 +1,7 @@
+{
+  "base_desc_mp3": "動画から音声を抽出し、MP3ファイルとして返送します。",
+  "base_tags_mp3": "audio, mp3, extract, video, convert, sound, voice, 音声, 抽出",
+  "base_help_mp3": "<b>🎧 音声抽出コマンド /audio または /mp3</b>\n\n動画から<b>音声トラック</b>を抽出し、MP3形式で送信します。\n\n<b>✅ 機能:</b>\n• 動画メッセージと返信に対応。\n• 自動でMP3に変換。\n• 高音質を保持。",
+  "base_examples_mp3": "• 動画に返信 → /mp3\n• キャプション付きで動画送信 → /audio",
+  "base_desc_help_mp3": "🎧 /audio または /mp3 コマンド用ヘルパー。"
+}

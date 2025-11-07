@@ -1,0 +1,9 @@
+{
+  "error_calc_empty": "⚠️ 계산할 내용을 찾을 수 없습니다. /help_calc 를 사용하세요.",
+  "error_calc_cant": "잘못된 표현식입니다.",
+  "calculator_desc_calc": "빠른 계산 — 더하기, 빼기, 곱하기, 나누기, 퍼센트 및 이전 결과 계속 사용.",
+  "calculator_tags_calc": "계산기, 수학, 산수, 퍼센트, 계산",
+  "calculator_help_calc": "<b>📟 빠른 계산기 /calc</b>\n\n즉시 계산합니다. <code>/math</code>의 간단 버전.\n\n<b>✅ 기능:</b>\n• 기본 연산 (+, -, *, /, %)\n• 괄호 및 계산 순서\n• 실시간 계산\n• 한 줄 또는 여러 줄 입력\n• 쉬운 퍼센트 계산\n• 줄 끝 주석 지원",
+  "calculator_examples_calc": "<b>기본 수학:</b>\n• /calc 5 + 3 * 2 주석\n• /calc (10 - 4) / 3\n\n<b>퍼센트:</b>\n• /calc (200 + 10%) - 5%\n\n<b>숫자 형식:</b>\n• /calc -3.5k + 7,000.5\n• /calc 4,2 * .2 - 1\n\n<b>멀티라인 모드:</b>\n• /calc (100k - 4%) / 3 👆 가격; -10% 수수료",
+  "calculator_desc_help_calc": "📟 /calc 명령 도움말."
+}

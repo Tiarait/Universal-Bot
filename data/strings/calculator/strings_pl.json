@@ -1,0 +1,9 @@
+{
+  "error_calc_empty": "⚠️ Nie mogę znaleźć, co obliczyć. Użyj /help_calc po pomoc.",
+  "error_calc_cant": "Nieprawidłowe wyrażenie.",
+  "calculator_desc_calc": "Wykonuje szybkie obliczenia — dodawanie, odejmowanie, mnożenie, dzielenie, procenty i kontynuacja poprzedniego wyniku.",
+  "calculator_tags_calc": "kalkulator, matematyka, arytmetyka, obliczenia, procent",
+  "calculator_help_calc": "<b>📟 Szybki kalkulator /calc</b>\n\nWykonuje natychmiastowe działania. Uproszczona wersja <code>/math</code> z naciskiem na szybkość i przejrzystość.\n\n<b>✅ Funkcje:</b>\n• Podstawowe działania (+, -, *, /, %)\n• Nawiasy i priorytety działań\n• Natychmiastowe obliczenia i formatowanie\n• Jedno- lub wielowierszowe wejście\n• Proste procenty\n• Obsługa komentarzy na końcu.",
+  "calculator_examples_calc": "<b>Podstawowa matematyka:</b>\n• /calc 5 + 3 * 2 komentarz\n• /calc (10 - 4) / 3\n\n<b>Procenty:</b>\n• /calc (200 + 10%) - 5%\n\n<b>Formaty liczb:</b>\n• /calc -3.5k + 7,000.5\n• /calc 4,2 * .2 - 1\n\n<b>Tryb wielowierszowy (lub ';'):</b>\n• /calc (100k - 4%) / 3 👆 cena; -10% prowizja",
+  "calculator_desc_help_calc": "📟 Pomoc dla komendy /calc."
+}

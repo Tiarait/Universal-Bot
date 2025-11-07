@@ -1,0 +1,10 @@
+{
+  "downloader_error_link_nf": "⚠️ 未找到链接。使用 /help_dl 获取帮助。",
+  "downloader_error_source_ns": "⚠️ 不支持此来源。请使用 /help_dl。",
+  "downloader_error_media_nf": "⚠️ 未找到媒体内容。",
+  "downloader_desc_dl": "从 TikTok、Instagram 和 Threads 下载视频。",
+  "downloader_tags_dl": "下载, 视频, tiktok, instagram, threads, 媒体, reels, saver",
+  "downloader_help_dl": "<b>🎬 下载命令 /dl /download</b>\n\n用于从 <b>TikTok</b>、<b>Instagram</b> 和 <b>Threads</b> 下载 <b>视频/音频</b>。\n\n<b>✅ 功能：</b>\n• 粘贴帖子链接。\n• 机器人自动识别平台。\n• 返回视频文件或下载链接。\n• 支持 IG、Threads、TikTok。\n\n<b>ℹ️ 注：</b>\n• 无需登录或 API。",
+  "downloader_examples_dl": "• /dl https://www.tiktok.com/@creator/video/12345\n• /dl https://www.instagram.com/reel/xyz/ mp3\n• /dl https://www.threads.net/post/abc/",
+  "downloader_desc_help_dl": "🎬 /dl 命令说明。"
+}

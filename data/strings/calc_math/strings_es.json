@@ -1,0 +1,13 @@
+{
+  "calc_math_desc_math": "Realiza operaciones matemáticas básicas y avanzadas: aritmética, potencias, raíces, trigonometría, logaritmos, funciones personalizadas y conversión de unidades.",
+  "calc_math_tags_math": "calculadora, matemáticas, aritmética, funciones, trigonometría, logaritmo, raíces, potencias, conversión de unidades",
+  "calc_math_help_math": "<b>📐 Comando /math</b> (usa <b>sympy</b>)\n\nPermite realizar <b>cálculos matemáticos complejos</b> en el chat.\n\n<b>✅ Características:</b>\n• +, -, *, /\n• ^, sqrt()\n• sin(), cos(), tan()\n• log(), ln()\n• abs()\n• pct(5,200) = 2.5%\n• pi, e\n• Funciones personalizadas\n• 0b..., 0x...\n• B, KB, MB, GB, TB; G, M, k, m, u, n, p\n• Múltiples expresiones ';'\n\n<b>💡 Nota:</b> '**' para potencias",
+  "calc_math_desc_help_math": "📘 Ayuda para /math.",
+  "calc_math_desc_solve": "Resuelve ecuaciones algebraicas: lineales, cuadráticas y polinomios simples. Detecta variables automáticamente.",
+  "calc_math_tags_solve": "resolver, ecuación, algebra, variable, polinomio",
+  "calc_math_help_solve": "<b>🧮 Comando /solve</b>\n\nResuelve ecuaciones automáticamente.\n\n<b>✅:</b>\n• Detecta variable\n• Lineales y cuadráticas\n• Varias ecuaciones\n• Devuelve todas las raíces\n\n<b>💡 Nota:</b> '**' para potencias",
+  "calc_math_desc_help_solve": "📘 Ayuda para /solve.",
+  "math_error_calc_empty": "⚠️ Nada para calcular. /help_math",
+  "math_error_solve_empty": "⚠️ Nada para resolver. /help_solve",
+  "math_error_calc_cant": "Expresión incorrecta."
+}

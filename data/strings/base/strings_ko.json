@@ -1,0 +1,7 @@
+{
+  "base_desc_mp3": "영상에서 오디오를 추출하여 MP3 파일로 다시 보냅니다.",
+  "base_tags_mp3": "audio, mp3, extract, video, convert, sound, voice, 오디오, 추출",
+  "base_help_mp3": "<b>🎧 오디오 추출 명령어 /audio 또는 /mp3</b>\n\n영상의 <b>오디오 트랙</b>을 추출하여 MP3 파일로 전송합니다.\n\n<b>✅ 기능:</b>\n• 영상 메시지 및 답장 지원.\n• 자동 MP3 변환.\n• 높은 음질 유지.",
+  "base_examples_mp3": "• 영상에 답장 → /mp3\n• 자막과 함께 영상 전송 → /audio",
+  "base_desc_help_mp3": "🎧 /audio 또는 /mp3 명령어 도움말."
+}

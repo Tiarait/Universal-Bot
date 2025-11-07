@@ -1,0 +1,7 @@
+{
+  "ai_api_desc_ai": "Proporciona asistencia con IA para varias tareas y guía sobre comandos dentro del bot.",
+  "ai_api_tags_ai": "ai, asistente, chatgpt, ayuda, resumen, explicación, generador, chatbot, guía, soporte",
+  "ai_api_help_ai": "<b>🤖 Asistente AI /ai</b>\n\nInteractúa con el <b>asistente AI</b> integrado para obtener <b>respuestas, explicaciones o ayuda con comandos</b> directamente en el chat.\n\n<b>✅ Funciones:</b>\n• Pregunta lo que quieras — el bot explicará o generará una respuesta.\n• Obtén ayuda y ejemplos de comandos.\n• Genera textos cortos, resúmenes y descripciones.\n• Entiende contexto y soporta varios idiomas.\n\n<b>💡 Notas:</b>\n<blockquote>❗ Sin memoria — 1 pregunta = 1 respuesta</blockquote>\n• Funciona en chats privados y grupales.\n• Soporta preguntas cortas y prompts largos.\n• Respuestas optimizadas para Telegram.",
+  "ai_api_examples_ai": "• /ai ¿qué es una red neuronal?\n• /ai explica cómo funciona /math\n• /ai escribe un saludo corto para mi bot\n• /ai resume este mensaje (responde con /ai)\n• /ai genera una idea para un nombre de app",
+  "ai_api_desc_help_ai": "🤖 Ayuda para el comando /ai."
+}

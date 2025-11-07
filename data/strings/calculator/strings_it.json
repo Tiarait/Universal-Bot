@@ -1,0 +1,9 @@
+{
+  "error_calc_empty": "⚠️ Impossibile trovare cosa calcolare. Usa /help_calc per aiuto.",
+  "error_calc_cant": "Espressione non valida.",
+  "calculator_desc_calc": "Calcoli rapidi — somma, sottrazione, moltiplicazione, divisione, percentuali e continuazione dal risultato precedente.",
+  "calculator_tags_calc": "calcolatrice, matematica, aritmetica, percentuale, calcolo",
+  "calculator_help_calc": "<b>📟 Calcolatrice veloce /calc</b>\n\nEsegue operazioni istantanee. Versione semplificata di <code>/math</code>.\n\n<b>✅ Funzioni:</b>\n• Operazioni base (+, -, *, /, %)\n• Parentesi e priorità\n• Calcolo in tempo reale\n• Input a riga singola o multipla\n• Percentuali semplici\n• Commenti supportati alla fine",
+  "calculator_examples_calc": "<b>Matematica base:</b>\n• /calc 5 + 3 * 2 commento\n• /calc (10 - 4) / 3\n\n<b>Percentuali:</b>\n• /calc (200 + 10%) - 5%\n\n<b>Formati numerici:</b>\n• /calc -3.5k + 7,000.5\n• /calc 4,2 * .2 - 1\n\n<b>Modalità multi-linea:</b>\n• /calc (100k - 4%) / 3 👆 prezzo; -10% commissione",
+  "calculator_desc_help_calc": "📟 Aiuto comando /calc."
+}

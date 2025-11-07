@@ -1,0 +1,13 @@
+{
+  "calc_math_desc_math": "基本および高度な数学演算 — 四則演算、累乗、平方根、三角関数、対数、カスタム関数、単位変換を実行。",
+  "calc_math_tags_math": "calculator, math, arithmetic, functions, trigonometry, logarithm, roots, powers, unit conversion",
+  "calc_math_help_math": "<b>📐 /math コマンド</b> (sympy)\n\nチャットで<b>複雑な計算</b>を実行できます。\n\n<b>✅ 機能:</b>\n• 四則演算\n• 累乗/平方根\n• 三角関数\n• 対数\n• abs()\n• pct(5,200)\n• pi, e\n• カスタム関数 f(x,y)\n• 2進/16進\n• 単位変換\n• 複数式 ';'\n\n<b>💡 メモ:</b>\n• 前回結果を使用可能\n• '**' は累乗",
+  "calc_math_desc_help_math": "📘 /math ヘルプ",
+  "calc_math_desc_solve": "線形・二次および簡単な多項式方程式を自動で解く。",
+  "calc_math_tags_solve": "solve, equation, algebra, math, variable, polynomial",
+  "calc_math_help_solve": "<b>🧮 /solve コマンド</b>\n\n<b>✅ 機能:</b>\n• 変数自動検出\n• 二次方程式\n• 複数式 ';'\n\n<b>💡 メモ:</b>\n• '**' は累乗",
+  "calc_math_desc_help_solve": "🧾 /solve ヘルプ",
+  "math_error_calc_empty": "⚠️ 計算式が見つかりません。/help_math を使用。",
+  "math_error_solve_empty": "⚠️ 方程式が見つかりません。/help_solve を使用。",
+  "math_error_calc_cant": "無効な式です。"
+}

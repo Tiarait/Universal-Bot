@@ -1,0 +1,13 @@
+{
+  "calc_math_desc_math": "Realiza operaciones básicas y avanzadas: aritmética, potencias, raíces, trigonometría, logaritmos, funciones personalizadas y conversión de unidades.",
+  "calc_math_tags_math": "calculadora, matemáticas, aritmética, funciones, trigonometría, logaritmos, raíces, potencias, conversión",
+  "calc_math_help_math": "<b>📐 Comando /math</b>\nCálculos complejos directo en el chat.\n\n<b>✅ Funciones:</b>\n• +, -, *, /\n• sqrt(), ^\n• trigonometría\n• log(), ln()\n• abs()\n• pct()\n• pi, e\n• Funciones personalizadas\n• 0b…, 0x…\n• Unidades\n\n<b>💡 Nota:</b> '**' para potencias",
+  "calc_math_desc_help_math": "📘 Ayuda para /math.",
+  "calc_math_desc_solve": "Resuelve ecuaciones automáticamente.",
+  "calc_math_tags_solve": "resolver, ecuaciones, algebra",
+  "calc_math_help_solve": "<b>🧮 /solve</b> — resuelve ecuaciones.\n<b>✅</b> Auto variable, multiplicidad, raíces.",
+  "calc_math_desc_help_solve": "📘 Ayuda /solve.",
+  "math_error_calc_empty": "⚠️ No hay nada que calcular.",
+  "math_error_solve_empty": "⚠️ No hay nada que resolver.",
+  "math_error_calc_cant": "Expresión inválida."
+}

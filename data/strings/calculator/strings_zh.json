@@ -1,0 +1,9 @@
+{
+  "error_calc_empty": "⚠️ 未找到需要计算的内容。使用 /help_calc 获取帮助。",
+  "error_calc_cant": "表达式错误。",
+  "calculator_desc_calc": "快速计算 — 加、减、乘、除、百分比，并可继续上次结果。",
+  "calculator_tags_calc": "计算器, 数学, 运算, 百分比, 计算",
+  "calculator_help_calc": "<b>📟 快速计算器 /calc</b>\n\n执行即时算术。<code>/math</code> 的简化版本。\n\n<b>✅ 功能:</b>\n• 基本运算 (+, -, *, /, %)\n• 括号与优先级\n• 实时计算\n• 单行/多行输入\n• 简单百分比\n• 支持行末注释",
+  "calculator_examples_calc": "<b>基础示例:</b>\n• /calc 5 + 3 * 2 注释\n• /calc (10 - 4) / 3\n\n<b>百分比:</b>\n• /calc (200 + 10%) - 5%\n\n<b>数字格式:</b>\n• /calc -3.5k + 7,000.5\n• /calc 4,2 * .2 - 1\n\n<b>多行模式:</b>\n• /calc (100k - 4%) / 3 👆 价格; -10% 手续费",
+  "calculator_desc_help_calc": "📟 /calc 命令帮助."
+}

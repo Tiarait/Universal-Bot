@@ -1,0 +1,15 @@
+{
+  "calc_math_desc_math": "Führt grundlegende und erweiterte mathematische Operationen aus — Arithmetik, Potenzen, Wurzeln, Trigonometrie, Logarithmen, benutzerdefinierte Funktionen und Einheitenumrechnung.",
+  "calc_math_tags_math": "calculator, math, arithmetic, functions, trigonometry, logarithm, roots, powers, unit conversion",
+  "calc_math_help_math": "<b>📐 Befehl /math</b> (sympy)\n\nBerechnet komplexe Ausdrücke direkt im Chat.\n\n<b>✅ Funktionen:</b>\n• Grundrechenarten\n• Potenzen/Wurzeln\n• Trigonometrie\n• Logarithmen\n• abs()\n• pct(5,200)\n• pi, e\n• Benutzerfunktionen: f(x,y)\n• Binär/Hex: 0b..., 0x...\n• Einheitenumrechnung\n• Mehrere Ausdrücke mit ';'\n\n<b>💡 Hinweis:</b>\n• Vorherige Ergebnisse nutzbar\n• '**' für Potenzen",
+  "calc_math_examples_math": "<b>Beispiele:</b>\n• /math 2+3*4\n• /math sqrt(16)+10\n• /math sin(pi/2)+cos(0)\n• /math 0b1011 + 0x1F + 4MB/2KB",
+  "calc_math_desc_help_math": "📘 Hilfe für /math.",
+  "calc_math_desc_solve": "Löst lineare, quadratische und einfache polynomielle Gleichungen automatisch.",
+  "calc_math_tags_solve": "solve, equation, algebra, math, variable, polynomial",
+  "calc_math_help_solve": "<b>🧮 Befehl /solve</b>\n\n<b>✅ Funktionen:</b>\n• Variablenerkennung\n• Quadratische Gleichungen\n• Mehrere Gleichungen mit ';'\n\n<b>💡 Hinweis:</b>\n• '**' für Potenzen",
+  "calc_math_examples_solve": "<b>Beispiele:</b>\n• /solve x-4\n• /solve x**2-9\n• /solve x**2-4, x; y+10",
+  "calc_math_desc_help_solve": "🧾 Hilfe für /solve.",
+  "math_error_calc_empty": "⚠️ Keine Berechnung gefunden. Nutze /help_math.",
+  "math_error_solve_empty": "⚠️ Keine Gleichung gefunden. Nutze /help_solve.",
+  "math_error_calc_cant": "Ungültiger Ausdruck."
+}

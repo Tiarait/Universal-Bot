@@ -1,0 +1,21 @@
+services:
+  redis:
+    image: redis:7-alpine
+    container_name: redis_server
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+
+
+  bot:
+    build: .
+    container_name: universal_bot
+    restart: unless-stopped
+    depends_on:
+      - redis
+    env_file: .env
+    network_mode: host
+    volumes:
+      - .:/app
+    command: [ "python", "main.py" ]
+

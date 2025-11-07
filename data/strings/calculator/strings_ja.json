@@ -1,0 +1,9 @@
+{
+  "error_calc_empty": "⚠️ 計算内容が見つかりません。/help_calc を使用してください。",
+  "error_calc_cant": "無効な式です。",
+  "calculator_desc_calc": "高速計算 — 加算、減算、乗算、除算、パーセンテージ、前回結果から続行。",
+  "calculator_tags_calc": "計算機, 数学, 算数, パーセント, 計算",
+  "calculator_help_calc": "<b>📟 高速計算 /calc</b>\n\n即時計算を行います。<code>/math</code>の簡易版です。\n\n<b>✅ 機能:</b>\n• 基本演算 (+, -, *, /, %)\n• 括弧と優先順位\n• リアルタイム計算\n• 1行または複数行入力\n• 簡単なパーセント計算\n• 行末コメント対応",
+  "calculator_examples_calc": "<b>基本例:</b>\n• /calc 5 + 3 * 2 コメント\n• /calc (10 - 4) / 3\n\n<b>パーセント:</b>\n• /calc (200 + 10%) - 5%\n\n<b>数値形式:</b>\n• /calc -3.5k + 7,000.5\n• /calc 4,2 * .2 - 1\n\n<b>複数行モード:</b>\n• /calc (100k - 4%) / 3 👆 価格; -10% 手数料",
+  "calculator_desc_help_calc": "📟 /calc コマンドヘルプ."
+}

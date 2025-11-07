@@ -1,0 +1,10 @@
+{
+  "downloader_error_link_nf": "⚠️ リンクが見つかりません。/help_dl を使用してください。",
+  "downloader_error_source_ns": "⚠️ このソースは非対応です。/help_dl を参照。",
+  "downloader_error_media_nf": "⚠️ メディアが見つかりません。",
+  "downloader_desc_dl": "TikTok、Instagram、Threads から動画をダウンロードします。",
+  "downloader_tags_dl": "ダウンロード, 動画, tiktok, instagram, threads, メディア, reels, saver",
+  "downloader_help_dl": "<b>🎬 ダウンロードコマンド /dl /download</b>\n\n<b>TikTok</b>、<b>Instagram</b>、<b>Threads</b> から<b>動画/音声</b>を保存できます。\n\n<b>✅ 機能:</b>\n• 投稿リンクを貼り付け。\n• ボットが自動でプラットフォーム判別。\n• 動画ファイルまたはリンクを返します。\n• IG、Threads、TikTok対応。\n\n<b>ℹ️ 注意:</b>\n• ログインや API は不要。",
+  "downloader_examples_dl": "• /dl https://www.tiktok.com/@creator/video/12345\n• /dl https://www.instagram.com/reel/xyz/ mp3\n• /dl https://www.threads.net/post/abc/",
+  "downloader_desc_help_dl": "🎬 /dl コマンドのヘルプ。"
+}

@@ -1,0 +1,23 @@
+{
+  "telegram_error_too_long": "テキストが長すぎます。下の完全な JSON ファイルを確認してください。",
+  "telegram_desc_circle": "任意の動画を Telegram の丸型動画（ビデオメッセージ）に変換します。",
+  "telegram_tags_circle": "vn, circle, video, note, telegram, round, converter, convert",
+  "telegram_help_circle": "<b🔵 サークル動画コマンド /vn または /circle</b>\n\n通常の動画を <b>Telegram 丸型動画</b>に変換します。\n\n<b✅ 特徴:</b>\n• 任意の動画に対応\n• 自動で丸型フォーマットに変換\n\n<bℹ️ 注意:</b>\n• Telegram 制限に合わせます: 最大1分, 約10MB, 1:1",
+  "telegram_examples_circle": "• 動画に返信 → /vn\n• キャプション付きで送信 → /circle",
+  "telegram_desc_help_circle": "🔵 /vn /circle ヘルプ",
+  "telegram_desc_parse": "Telegram メッセージを解析し JSON 構造を返します。",
+  "telegram_tags_parse": "parse, telegram, json, message, debug, inspect",
+  "telegram_help_parse": "<b🛠️ 解析コマンド /parse または /inspect</b>\n\n任意のメッセージを解析し <b>JSON</b> を表示します。\n\n<b✅ 特徴:</b>\n• 全てのメッセージ形式に対応\n• 全フィールド (ID, 送信者, チャット, メディア…)\n• ボット開発に有用\n\n<bℹ️ 注意:</b>\n• 整形された JSON を出力",
+  "telegram_examples_parse": "• メッセージに返信 → /parse",
+  "telegram_desc_help_parse": "🛠️ /parse ヘルプ",
+  "telegram_desc_voice": "音声/動画を Telegram の音声メッセージに変換します。",
+  "telegram_tags_voice": "voice, audio, video, mp3, telegram, converter, convert",
+  "telegram_help_voice": "<b🎙️ 音声コマンド /voice</b>\n\n任意の音声ファイルを Telegram 音声メッセージに変換します。\n\n<b✅ 特徴:</b>\n• 任意の音声を受け付け\n• 結果をチャットに直接送信",
+  "telegram_examples_voice": "• 音声に返信 → /voice\n• キャプション付き音声 → /voice",
+  "telegram_desc_help_voice": "🎙️ /voice ヘルプ",
+  "telegram_desc_id": "Telegram ID とユーザー/チャット情報を表示します。",
+  "telegram_tags_id": "id, user, chat, telegram, info, identifier, uid, contact, lookup",
+  "telegram_help_id": "<b🆔 ID コマンド /id</b>\n\n<b>Telegram ID</b> とユーザー情報を表示します。\n\n<b✅ 特徴:</b>\n• ユーザー、ボット、グループ対応\n• 返信時 → 対象ユーザー情報",
+  "telegram_examples_id": "• /id — 現在チャット ID\n• ユーザーに返信 → /id\n• 連絡先に返信 → /id（電話、国、リンク）",
+  "telegram_desc_help_id": "🆔 /id ヘルプ"
+}

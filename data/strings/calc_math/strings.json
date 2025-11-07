@@ -1,0 +1,17 @@
+{
+  "calc_math_desc_math": "Performs basic and advanced math operations — arithmetic, powers, roots, trigonometric, logarithmic functions, custom lambdas, and unit conversions.",
+  "calc_math_tags_math": "calculator, math, arithmetic, functions, trigonometry, logarithm, roots, powers, unit conversion",
+  "calc_math_help_math": "<b>📐 Math Command /math</b> (used <b>sympy</b> lib)\n\nThis command allows you to perform <b>complex mathematical calculations</b> directly in the chat.\n\n<b>✅ Features:</b>\n• Basic arithmetic: +, -, *, / \n• Powers and roots: ^, sqrt()\n• Trigonometric functions: sin(), cos(), tan()\n• Logarithms: log(), ln()\n• Absolute value: abs()\n• Percent from: pct(5, 200) - its 2.5%\n• Constants: pi, e\n• Custom functions: define using f(x,y):=expression and call later\n• Binary and hexadecimal numbers: 0b..., 0x...\n• Unit conversions: B, KB, MB, GB, TB, and metric prefixes G, M, k, m, u, n, p\n• Multiple expressions separated by ';' are calculated sequentially\n\n<b>💡 Notes:</b>\n• Supports continuation from previous results using operators.\n• use '**' for raising to a power <b>x**2</b> = <b>x²</b>",
+  "calc_math_examples_math": "<b>Simple calculations:</b>\n• /math 2 + 3 * 4\n• /math sqrt(16) + 10\n\n<b>Using multiple expressions with ';':</b>\n• /math 2+3; 10/2; 5^2\n• /math 2,006.56 + 0x1F + 0b1011 + sqrt(16) + sin(pi/2) + 4MB/2KB; f(x,y):=x^2+y^2; f(3,4)\n\n<b>Trigonometry and constants:</b>\n• /math sin(pi/2) + cos(0)\n• /math tan(pi/4) * 2\n\n<b>Custom lambda functions:</b>\n• /math f(x,y):=x^2+y^2; f(3,4)\n• /math g(a,b,c):=a*b+c; g(2,3,4)\n\n<b>Binary, Hexadecimal, and Unit prefixes:</b>\n• /math 0b1011 + 0x1F + 4MB/2KB\n• /math 3G + 500M - 2k\n\nUse multicalc",
+  "calc_math_desc_help_math": "\uD83D\uDCD0 Helper for command /math.",
+
+  "calc_math_desc_solve": "Solves algebraic equations with linear, quadratic, or simple polynomial forms. Detects variables automatically.",
+  "calc_math_tags_solve": "solve, equation, algebra, math, variable, polynomial",
+  "calc_math_help_solve": "<b>🧮 Equation Solver /solve</b>\n\nSolves algebraic equations automatically. Supports single and multiple variables, as well as systems of equations. Automatically detects the variable if not specified.\n\n<b>✅ Features:</b>\n• Detects the variable (x, y, etc.) if not given\n• Supports simple and quadratic equations\n• Allows multiple equations separated by ';'\n• Returns all valid roots or results in list form\n\n<b>\uD83D\uDCA1 Notes:</b>\n• use '**' for raising to a power <b>x**2</b> = <b>x²</b>",
+  "calc_math_examples_solve": "<b>Basic equations:</b>\n• /solve x - 4\n• /solve (x**3 + 2*x**2 - x - 2)/(x - 1)\n\n<b>Automatic variable detection:</b>\n• /solve x**2 - 9\n• /solve y + 10\n\n<b>Multiple equations:</b>\n• /solve x**2 - 4, x; y + 10\n\nAll equations are processed independently, and results are combined when possible.",
+  "calc_math_desc_help_solve": "\uD83E\uDDEE Helper for command /solve.",
+
+  "math_error_calc_empty": "⚠\uFE0F Can't find what needs to be calculated. Use /help_math for help. ",
+  "math_error_solve_empty": "⚠\uFE0F Can't find what needs to be solved. Use /help_solve for help. ",
+  "math_error_calc_cant": "Incorrect expression. "
+}

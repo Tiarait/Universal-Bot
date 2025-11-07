@@ -1,0 +1,10 @@
+{
+  "downloader_error_link_nf": "⚠️ No se pudo encontrar un enlace. Usa /help_dl para ayuda.",
+  "downloader_error_source_ns": "⚠️ La fuente no es compatible. Usa /help_dl para ayuda.",
+  "downloader_error_media_nf": "⚠️ No se encontró contenido multimedia.",
+  "downloader_desc_dl": "Descarga videos de redes sociales populares como TikTok, Instagram y Threads.",
+  "downloader_tags_dl": "descargar, video, tiktok, instagram, threads, media, reels, saver",
+  "downloader_help_dl": "<b>🎬 Comando de descarga /dl /download</b>\n\nPermite <b>descargar videos/audio</b> de plataformas compatibles: <b>TikTok</b>, <b>Instagram</b> y <b>Threads</b>.\n\n<b>✅ Funciones:</b>\n• Pega el enlace de la publicación.\n• El bot detecta la plataforma automáticamente.\n• Devuelve el archivo de video o enlace de descarga.\n• Compatible con publicaciones de Instagram, Threads y videos de TikTok.\n\n<b>ℹ️ Nota:</b>\n• No se necesita iniciar sesión ni API.",
+  "downloader_examples_dl": "• /dl https://www.tiktok.com/@creator/video/12345\n• /dl https://www.instagram.com/reel/xyz/ mp3\n• /dl https://www.threads.net/post/abc/",
+  "downloader_desc_help_dl": "🎬 Ayuda para el comando /dl."
+}

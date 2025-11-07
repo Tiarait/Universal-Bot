@@ -1,0 +1,9 @@
+{
+  "error_calc_empty": "⚠️ Es wurde nichts zum Berechnen gefunden. Verwende /help_calc für Hilfe.",
+  "error_calc_cant": "Ungültiger Ausdruck.",
+  "calculator_desc_calc": "Schnelle Berechnungen — addieren, subtrahieren, multiplizieren, dividieren, Prozente und Fortsetzen vom vorherigen Ergebnis.",
+  "calculator_tags_calc": "rechner, mathematik, arithmetik, prozent, berechnung",
+  "calculator_help_calc": "<b>📟 Schnellrechner /calc</b>\n\nFührt sofortige Berechnungen durch. Vereinfachte Version von <code>/math</code>.\n\n<b>✅ Funktionen:</b>\n• Grundrechenarten (+, -, *, /, %)\n• Klammern und Reihenfolge\n• Echtzeit-Berechnung\n• Ein- oder Mehrzeileneingabe\n• Einfache Prozentrechnung\n• Kommentare am Zeilenende unterstützt",
+  "calculator_examples_calc": "<b>Grundrechenarten:</b>\n• /calc 5 + 3 * 2 kommentar\n• /calc (10 - 4) / 3\n\n<b>Prozent:</b>\n• /calc (200 + 10%) - 5%\n\n<b>Zahlenformate:</b>\n• /calc -3.5k + 7,000.5\n• /calc 4,2 * .2 - 1\n\n<b>Mehrzeilen-Modus:</b>\n• /calc (100k - 4%) / 3 👆 preis; -10% gebühr",
+  "calculator_desc_help_calc": "📟 Hilfe für /calc."
+}

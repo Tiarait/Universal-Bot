@@ -1,0 +1,7 @@
+{
+  "base_desc_mp3": "Wyodrębnia audio z wideo i wysyła je z powrotem jako plik MP3.",
+  "base_tags_mp3": "audio, mp3, extract, video, convert, sound, voice, audio, wyodrębnij",
+  "base_help_mp3": "<b>🎧 Komenda do wyodrębniania dźwięku /audio lub /mp3</b>\n\nWyodrębnia <b>ścieżkę dźwiękową</b> z dowolnego wideo i wysyła ją w formacie MP3.\n\n<b>✅ Funkcje:</b>\n• Działa z filmami i odpowiedziami.\n• Automatycznie konwertuje na MP3.\n• Zachowuje wysoką jakość dźwięku.",
+  "base_examples_mp3": "• Odpowiedz na wideo → /mp3\n• Wyślij wideo z opisem → /audio",
+  "base_desc_help_mp3": "🎧 Pomoc dla komendy /audio lub /mp3."
+}

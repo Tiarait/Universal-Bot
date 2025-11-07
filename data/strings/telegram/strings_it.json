@@ -1,0 +1,23 @@
+{
+  "telegram_error_too_long": "Il testo è troppo lungo. Vedi il file JSON completo qui sotto.",
+  "telegram_desc_circle": "Converte qualsiasi video in un video circolare Telegram (video note).",
+  "telegram_tags_circle": "vn, circle, video, note, telegram, round, converter, convert",
+  "telegram_help_circle": "<b🔵 Comando Circle Video /vn o /circle</b>\n\nConverte un video normale in un <b>video circolare Telegram</b>.\n\n<b✅ Funzioni:</b>\n• Accetta qualsiasi video.\n• Ritaglio automatico e conversione in formato circolare.\n\n<bℹ️ Note:</b>\n• Adatta ai limiti Telegram: max 1 min, ~10MB, 1:1.",
+  "telegram_examples_circle": "• Rispondi a un video → /vn\n• Invia video con didascalia → /circle",
+  "telegram_desc_help_circle": "🔵 Aiuto per /vn o /circle.",
+  "telegram_desc_parse": "Analizza un messaggio Telegram e restituisce la sua struttura JSON.",
+  "telegram_tags_parse": "parse, telegram, json, message, debug, inspect",
+  "telegram_help_parse": "<b🛠️ Comando Parse /parse o /inspect</b>\n\nAnalizza qualsiasi messaggio e mostra la struttura in <b>JSON</b>.\n\n<b✅ Funzioni:</b>\n• Supporta ogni tipo di messaggio.\n• Mostra tutti i campi (id, mittente, chat, media...)\n• Utile per sviluppo bot.\n\n<bℹ️ Note:</b>\n• Output formattato JSON.",
+  "telegram_examples_parse": "• Rispondi a un messaggio → /parse",
+  "telegram_desc_help_parse": "🛠️ Aiuto per /parse.",
+  "telegram_desc_voice": "Converte audio/video in un messaggio vocale Telegram.",
+  "telegram_tags_voice": "voice, audio, video, mp3, telegram, converter, convert",
+  "telegram_help_voice": "<b🎙️ Comando Voice /voice</b>\n\nConverte qualsiasi file audio in messaggio vocale Telegram.\n\n<b✅ Funzioni:</b>\n• Accetta qualsiasi audio.\n• Invia il risultato nel chat.",
+  "telegram_examples_voice": "• Rispondi a un audio → /voice\n• Invia audio con didascalia → /voice",
+  "telegram_desc_help_voice": "🎙️ Aiuto per /voice.",
+  "telegram_desc_id": "Mostra ID Telegram e dettagli utente/chat.",
+  "telegram_tags_id": "id, user, chat, telegram, info, identifier, uid, contact, lookup",
+  "telegram_help_id": "<b🆔 Comando ID /id</b>\n\nMostra l'<b>ID Telegram</b> e info su <b>utente, chat o contatto</b>.\n\n<b✅ Funzioni:</b>\n• Funziona con utenti, bot, gruppi.\n• Se rispondi — mostra dettagli dell'utente.",
+  "telegram_examples_id": "• /id — mostra ID della chat.\n• Rispondi a utente → /id\n• Rispondi a contatto → /id",
+  "telegram_desc_help_id": "🆔 Aiuto per /id."
+}

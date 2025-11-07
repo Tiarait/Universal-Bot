@@ -1,0 +1,7 @@
+{
+  "base_desc_mp3": "Extrait l’audio d’une vidéo et le renvoie sous forme de fichier MP3.",
+  "base_tags_mp3": "audio, mp3, extract, video, convert, sound, voice, audio, extraire",
+  "base_help_mp3": "<b>🎧 Commande d’extraction audio /audio ou /mp3</b>\n\nExtrait la <b>piste audio</b> de n’importe quelle vidéo et l’envoie en MP3.\n\n<b>✅ Fonctionnalités :</b>\n• Fonctionne avec les vidéos et réponses.\n• Extraction et conversion automatique en MP3.\n• Haute qualité audio conservée.",
+  "base_examples_mp3": "• Répondre à une vidéo → /mp3\n• Envoyer une vidéo avec légende → /audio",
+  "base_desc_help_mp3": "🎧 Assistant pour la commande /audio ou /mp3."
+}

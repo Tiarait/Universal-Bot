@@ -1,0 +1,8 @@
+{
+  "base_desc_mp3": "Extracts audio from a video message and sends it back as an audio file (MP3).",
+  "base_tags_mp3": "audio, mp3, extract, video, convert, sound, voice",
+  "base_help_mp3": "<b>\uD83C\uDFA7 Audio Extract Command /audio or /mp3</b>\n\nExtracts the <b>audio track</b> from any video and sends it back as an MP3 file.\n\n<b>✅ Features:</b>\n• Works with video messages, replies.\n• Automatically extracts and converts to MP3.\n• Keeps high-quality sound.",
+  "base_examples_mp3": "• Reply to a video → /mp3\n• Send video with caption → /audio",
+  "base_desc_help_mp3": "\uD83C\uDFA7 Helper for /audio or /mp3 command.",
+  "base_desc_contacts": ""
+}

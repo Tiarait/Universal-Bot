@@ -1,0 +1,10 @@
+{
+  "downloader_error_link_nf": "⚠️ Nessun link trovato. Usa /help_dl per aiuto.",
+  "downloader_error_source_ns": "⚠️ Fonte non supportata. Usa /help_dl.",
+  "downloader_error_media_nf": "⚠️ Nessun contenuto trovato.",
+  "downloader_desc_dl": "Scarica video da TikTok, Instagram e Threads.",
+  "downloader_tags_dl": "scaricare, video, tiktok, instagram, threads, media, reels, saver",
+  "downloader_help_dl": "<b>🎬 Comando /dl /download</b>\n\nPermette di <b>scaricare video/audio</b> da <b>TikTok</b>, <b>Instagram</b> e <b>Threads</b>.\n\n<b>✅ Funzioni:</b>\n• Incolla il link del post.\n• Il bot riconosce la piattaforma.\n• Restituisce il file video o link download.\n• Supporta Instagram, Threads e TikTok.\n\n<b>ℹ️ Nota:</b>\n• Nessun login o API richiesto.",
+  "downloader_examples_dl": "• /dl https://www.tiktok.com/@creator/video/12345\n• /dl https://www.instagram.com/reel/xyz/ mp3\n• /dl https://www.threads.net/post/abc/",
+  "downloader_desc_help_dl": "🎬 Aiuto per il comando /dl."
+}

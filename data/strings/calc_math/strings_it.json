@@ -1,0 +1,13 @@
+{
+  "calc_math_desc_math": "Esegue operazioni matematiche basilari e avanzate — aritmetica, potenze, radici, trigonometria, logaritmi, funzioni personalizzate e conversione di unità.",
+  "calc_math_tags_math": "calculator, math, arithmetic, functions, trigonometry, logarithm, roots, powers, unit conversion",
+  "calc_math_help_math": "<b>📐 Comando /math</b> (libreria sympy)\n\nPermette calcoli matematici complessi direttamente in chat.\n\n<b>✅ Funzioni:</b>\n• Aritmetica: +, -, *, /\n• Potenze e radici: ^, sqrt()\n• Trigonometria: sin(), cos(), tan()\n• Logaritmi: log(), ln()\n• Valore assoluto: abs()\n• Percentuale: pct(5, 200)\n• Costanti: pi, e\n• Funzioni custom: f(x,y):=...\n• Binario/esadecimale: 0b..., 0x...\n• Conversioni unità: B, KB, MB, GB, TB\n• Comandi multipli con ';'\n\n<b>💡 Note:</b>\n• Supporta risultato precedente\n• '**' per potenze",
+  "calc_math_desc_help_math": "📘 Aiuto comando /math.",
+  "calc_math_desc_solve": "Risoluzione automatica di equazioni lineari, quadratiche e polinomiali semplici.",
+  "calc_math_tags_solve": "solve, equation, algebra, math, variable, polynomial",
+  "calc_math_help_solve": "<b>🧮 Comando /solve</b>\n\nRisoluzione automatica di equazioni.\n\n<b>✅ Funzioni:</b>\n• Riconoscimento variabili\n• Equazioni quadratiche\n• Più equazioni con ';'\n\n<b>💡 Nota:</b>\n• '**' per potenze",
+  "calc_math_desc_help_solve": "🧾 Aiuto comando /solve.",
+  "math_error_calc_empty": "⚠️ Nessuna espressione trovata. Usa /help_math.",
+  "math_error_solve_empty": "⚠️ Nessuna equazione trovata. Usa /help_solve.",
+  "math_error_calc_cant": "Espressione non valida."
+}

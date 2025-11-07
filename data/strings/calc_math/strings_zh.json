@@ -1,0 +1,13 @@
+{
+  "calc_math_desc_math": "执行基础与高级数学运算 — 四则运算、幂、根、三角、对数、自定义函数和单位转换。",
+  "calc_math_tags_math": "calculator, math, arithmetic, functions, trigonometry, logarithm, roots, powers, unit conversion",
+  "calc_math_help_math": "<b>📐 /math 命令</b> (sympy)\n\n在聊天中进行<b>复杂数学计算</b>。\n\n<b>✅ 功能:</b>\n• 基础运算\n• 幂与根\n• 三角函数\n• 对数\n• abs()\n• 百分比: pct(5,200)\n• 常量: pi, e\n• 自定义函数 f(x,y)\n• 二进制/十六进制\n• 单位转换\n• 多表达式 ';'\n\n<b>💡 提示:</b>\n• 支持上次结果\n• '**' 表示幂",
+  "calc_math_desc_help_math": "📘 /math 帮助。",
+  "calc_math_desc_solve": "自动求解线性、二次及简单多项式方程。",
+  "calc_math_tags_solve": "solve, equation, algebra, math, variable, polynomial",
+  "calc_math_help_solve": "<b>🧮 /solve 命令</b>\n\n<b>✅ 功能:</b>\n• 自动识别变量\n• 支持二次方程\n• 多方程 ';'\n\n<b>💡 提示:</b>\n• '**' 表示幂",
+  "calc_math_desc_help_solve": "🧾 /solve 帮助。",
+  "math_error_calc_empty": "⚠️ 未找到计算内容。使用 /help_math。",
+  "math_error_solve_empty": "⚠️ 未找到方程。使用 /help_solve。",
+  "math_error_calc_cant": "无效表达式。"
+}

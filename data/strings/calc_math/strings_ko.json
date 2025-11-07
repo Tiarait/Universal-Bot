@@ -1,0 +1,13 @@
+{
+  "calc_math_desc_math": "기본 및 고급 수학 연산 수행 — 사칙연산, 제곱, 루트, 삼각함수, 로그, 사용자 정의 함수, 단위 변환.",
+  "calc_math_tags_math": "calculator, math, arithmetic, functions, trigonometry, logarithm, roots, powers, unit conversion",
+  "calc_math_help_math": "<b>📐 /math 명령어</b> (sympy)\n\n채팅에서 <b>복잡한 계산</b> 수행.\n\n<b>✅ 기능:</b>\n• 사칙연산\n• 제곱/루트\n• 삼각함수\n• 로그\n• abs()\n• pct(5,200)\n• pi, e\n• 사용자 함수 f(x,y)\n• 2진/16진수\n• 단위 변환\n• 여러 표현식 ';'\n\n<b>💡 참고:</b>\n• 이전 결과 사용 가능\n• '**' 제곱",
+  "calc_math_desc_help_math": "📘 /math 도움말.",
+  "calc_math_desc_solve": "선형, 이차 및 단순 다항식 방정식 자동 해결.",
+  "calc_math_tags_solve": "solve, equation, algebra, math, variable, polynomial",
+  "calc_math_help_solve": "<b>🧮 /solve 명령어</b>\n\n<b>✅ 기능:</b>\n• 변수 자동 인식\n• 이차 방정식 지원\n• 여러 방정식 ';'\n\n<b>💡 참고:</b>\n• '**' 제곱",
+  "calc_math_examples_solve": "<b>예시:</b>\n• /solve x-4\n• /solve x**2-9\n• /solve x**2-4, x; y+10",
+  "math_error_calc_empty": "⚠️ 계산식 없음. /help_math 사용.",
+  "math_error_solve_empty": "⚠️ 방정식 없음. /help_solve 사용.",
+  "math_error_calc_cant": "잘못된 식입니다."
+}

@@ -1,0 +1,7 @@
+{
+  "ai_api_desc_ai": "Bietet KI-gestützte Unterstützung für verschiedene Aufgaben und Hilfe bei Bot-Befehlen.",
+  "ai_api_tags_ai": "ai, assistent, chatgpt, hilfe, zusammenfassung, erklärung, generator, chatbot, anleitung, support",
+  "ai_api_help_ai": "<b>🤖 KI-Assistent /ai</b>\n\nNutze den integrierten <b>KI-Assistenten</b>, um <b>Antworten, Erklärungen oder Befehls-hilfe</b> direkt im Chat zu erhalten.\n\n<b>✅ Funktionen:</b>\n• Stelle jede Frage — der Bot erklärt oder generiert eine Antwort.\n• Befehlsbeispiele und Hilfe.\n• Kurze Texte, Zusammenfassungen und Beschreibungen generieren.\n• Versteht Kontext und unterstützt Mehrsprachigkeit.\n\n<b>💡 Hinweise:</b>\n<blockquote>❗ Keine Erinnerung — 1 Frage = 1 Antwort</blockquote>\n• Funktioniert in Privat- und Gruppenchats.\n• Kurze Fragen und lange Prompts unterstützt.\n• Antworten für Telegram optimiert.",
+  "ai_api_examples_ai": "• /ai was ist ein neuronales Netzwerk?\n• /ai erkläre, wie /math funktioniert\n• /ai schreibe eine kurze Begrüßung für meinen Bot\n• /ai fasse diese Nachricht zusammen (mit /ai antworten)\n• /ai erzeuge eine Idee für einen App-Namen",
+  "ai_api_desc_help_ai": "🤖 Hilfe für den /ai-Befehl."
+}

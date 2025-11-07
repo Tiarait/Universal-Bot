@@ -1,0 +1,10 @@
+{
+  "error_calc_empty": "⚠\uFE0F Can't find what needs to be calculated. Use /help_calc for help. ",
+  "error_calc_cant": "Incorrect expression. ",
+
+  "calculator_desc_calc": "Performs quick arithmetic — add, subtract, multiply, divide, use percentages, and continue from previous results.",
+  "calculator_tags_calc": "calculator, math, arithmetic, calc, calculation, percent",
+  "calculator_help_calc": "<b>\uD83D\uDCDF Quick Calculator /calc</b>\n\nPerforms instant arithmetic operations. Simplified version of <code>/math</code> with focus on speed and clarity.\n\n<b>✅ Features:</b>\n• Basic arithmetic (+, -, *, /, %)\n• Parentheses and order of operations\n• Real-time evaluation and formatting\n• Accepts single-line or multi-expression input\n• Easy percents calculated\n• Support for comments at the end.",
+  "calculator_examples_calc": "<b>Basic math:</b>\n• /calc 5 + 3 * 2 simple comment\n• /calc (10 - 4) / 3\n\n<b>Percentages and combined expressions:</b>\n• /calc (200 + 10%) - 5%\n\n<b>Numbers formats:</b>\n• /calc -3.5k + 7,000.5\n• /calc 4,2 * .2 - 1\n\n<b>Support multi-line mode (or split by ';'):</b>\n• /calc (100k - 4%) / 3 \uD83D\uDC46 price; - 10% our commission",
+  "calculator_desc_help_calc": "\uD83D\uDCDF Helper for command /calc."
+}

@@ -1,0 +1,27 @@
+{
+  "telegram_error_too_long": "The text is too long. See the full json file below.",
+
+  "telegram_desc_circle": "Converts any video into a Telegram circle video (video note).",
+  "telegram_tags_circle": "vn, circle, video, note, telegram, round, converter, convert",
+  "telegram_help_circle": "<b>\uD83D\uDD35 Circle Video Command /vn or /circle</b>\n\nConverts a regular video into a <b>Telegram circle video</b> (video note).\n\n<b>✅ Features:</b>\n• Accepts any video file or reply to one.\n• Automatically crops and converts to circular format.\n\n<b>ℹ\uFE0F Notes:</b>\n• Your video will be formatted to Telegram limits for circles: max 1 min duration, ~10MB size, and 1:1 aspect ratio.",
+  "telegram_examples_circle": "• Reply to a video → /vn\n• Send video with caption → /circle",
+  "telegram_desc_help_circle": "\uD83D\uDD35 Helper for /vn or /circle command.",
+  
+  "telegram_desc_parse": "Parses a Telegram message and returns its structure as JSON.",
+  "telegram_tags_parse": "parse, telegram, json, message, debug, inspect",
+  "telegram_help_parse": "<b>\uD83D\uDEE0\uFE0F Parse Command /parse or /inspect</b>\n\nAnalyzes any Telegram message and returns its full structure in <b>JSON</b> format.\n\n<b>✅ Features:</b>\n• Works for any message type — text, media, stickers, polls, etc.\n• Shows all available fields (id, sender, chat, media info...)\n• Useful for debugging and bot development.\n\n<b>ℹ️ Notes:</b>\n• Output is formatted JSON for easy reading.",
+  "telegram_examples_parse": "• Reply to a message → /parse",
+  "telegram_desc_help_parse": "\uD83D\uDEE0\uFE0F Helper for /parse command.",
+
+  "telegram_desc_voice": "Converts any audio/video into a Telegram voice message (OGG/Opus).",
+  "telegram_tags_voice": "voice, audio, video, mp3, telegram, converter, convert",
+  "telegram_help_voice": "<b>\uD83C\uDF99 Voice Command /voice</b>\n\nThis command converts any audio file or MP3 you send into a Telegram voice message.\n\n<b>✅ Features:</b>\n• Accepts any audio file or reply to one.\n• Sends the result directly in chat.",
+  "telegram_examples_voice": "• Reply to a audio → /voice\n• Send audio with caption → /voice",
+  "telegram_desc_help_voice": "\uD83C\uDF99 Helper for /voice command.",
+
+  "telegram_desc_id": "Shows the Telegram ID and details of a user or chat.",
+  "telegram_tags_id": "id, user, chat, telegram, info, identifier, uid, contact, lookup",
+  "telegram_help_id": "<b>🆔 ID Command /id</b>\n\nDisplays the <b>Telegram ID</b> and other details about a <b>user, chat, or contact</b>.\n\n<b>✅ Features:</b>\n• Works on users, bots, and group chats.\n• If used as a reply — shows info about the replied user.\n\n<b>ℹ️ Notes:</b>\n• Works in private, group, and channel chats.\n• The “Copy ID” button makes copying easier.",
+  "telegram_examples_id": "• /id — shows current chat ID.\n• Reply to a user → /id — shows user info.\n• Reply to a contact → /id — shows phone, links, and country.",
+  "telegram_desc_help_id": "🆔 Helper for /id command."
+}

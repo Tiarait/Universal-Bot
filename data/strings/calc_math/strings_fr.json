@@ -1,0 +1,13 @@
+{
+  "calc_math_desc_math": "Effectue des opérations mathématiques de base et avancées : arithmétique, puissances, racines, trigonométrie, logarithmes, fonctions personnalisées et conversions d’unités.",
+  "calc_math_tags_math": "calculatrice, mathématiques, arithmétique, fonctions, trigonométrie, logarithme, conversion",
+  "calc_math_help_math": "<b>📐 Commande /math</b>\nCalculs complexes dans le chat.\n\n<b>✅ Fonctionnalités :</b>\n• + - * /\n• sqrt(), ^\n• sin(), cos(), tan()\n• log(), ln()\n• abs()\n• pct()\n• pi, e\n• Fonctions perso\n• 0b…, 0x…\n• Conversions\n\n<b>💡 Note :</b> '**' = puissance",
+  "calc_math_desc_help_math": "📘 Aide pour /math.",
+  "calc_math_desc_solve": "Résout des équations algébriques automatiquement.",
+  "calc_math_tags_solve": "résoudre, équation, algèbre",
+  "calc_math_help_solve": "<b>🧮 /solve</b>\nDétection auto de variable, plusieurs équations, toutes solutions.",
+  "calc_math_desc_help_solve": "📘 Aide pour /solve.",
+  "math_error_calc_empty": "⚠️ Rien à calculer.",
+  "math_error_solve_empty": "⚠️ Rien à résoudre.",
+  "math_error_calc_cant": "Expression invalide."
+}

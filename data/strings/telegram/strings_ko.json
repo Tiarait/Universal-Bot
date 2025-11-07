@@ -1,0 +1,23 @@
+{
+  "telegram_error_too_long": "텍스트가 너무 깁니다. 아래 전체 JSON 파일을 확인하세요.",
+  "telegram_desc_circle": "아무 영상이나 Telegram 원형 비디오(비디오 메시지)로 변환합니다.",
+  "telegram_tags_circle": "vn, circle, video, note, telegram, round, converter, convert",
+  "telegram_help_circle": "<b🔵 원형 비디오 명령 /vn 또는 /circle</b>\n\n일반 영상을 <b>텔레그램 원형 영상</b>으로 변환합니다.\n\n<b✅ 기능:</b>\n• 모든 영상 지원\n• 자동 자르기 및 원형 변환\n\n<bℹ️ 참고:</b>\n• Telegram 제한에 맞게 조정 (최대 1분, 약 10MB, 1:1)",
+  "telegram_examples_circle": "• 영상에 답장 → /vn\n• 자막과 함께 영상 보내기 → /circle",
+  "telegram_desc_help_circle": "🔵 /vn 또는 /circle 도움말",
+  "telegram_desc_parse": "Telegram 메시지를 분석하고 JSON 구조로 반환합니다.",
+  "telegram_tags_parse": "parse, telegram, json, message, debug, inspect",
+  "telegram_help_parse": "<b🛠️ Parse 명령 /parse 또는 /inspect</b>\n\n메시지를 분석하고 전체 구조를 <b>JSON</b>으로 보여줍니다.\n\n<b✅ 기능:</b>\n• 모든 메시지 타입 지원\n• 모든 필드 표시 (ID, 보낸사람, 채팅, 미디어 등)\n• 봇 개발에 유용\n\n<bℹ️ 참고:</b>\n• 출력은 정렬된 JSON",
+  "telegram_examples_parse": "• 메시지에 답장 → /parse",
+  "telegram_desc_help_parse": "🛠️ /parse 도움말",
+  "telegram_desc_voice": "오디오/영상 파일을 Telegram 음성 메시지로 변환합니다.",
+  "telegram_tags_voice": "voice, audio, video, mp3, telegram, converter, convert",
+  "telegram_help_voice": "<b🎙️ Voice 명령 /voice</b>\n\n오디오 파일을 Telegram 음성 메시지로 변환합니다.\n\n<b✅ 기능:</b>\n• 모든 오디오 파일 지원\n• 결과를 채팅에 바로 전송",
+  "telegram_examples_voice": "• 오디오에 답장 → /voice\n• 자막과 함께 오디오 보내기 → /voice",
+  "telegram_desc_help_voice": "🎙️ /voice 도움말",
+  "telegram_desc_id": "Telegram ID 및 사용자/채팅 정보를 보여줍니다.",
+  "telegram_tags_id": "id, user, chat, telegram, info, identifier, uid, contact, lookup",
+  "telegram_help_id": "<b🆔 ID 명령 /id</b>\n\n<b>Telegram ID</b> 및 사용자 정보를 표시합니다.\n\n<b✅ 기능:</b>\n• 사용자, 봇, 그룹 지원\n• 답장 시 해당 사용자 정보 표시",
+  "telegram_examples_id": "• /id — 현재 채팅 ID\n• 사용자 답장 → /id\n• 연락처 답장 → /id (전화번호, 국가, 링크)",
+  "telegram_desc_help_id": "🆔 /id 도움말"
+}

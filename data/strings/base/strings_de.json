@@ -1,0 +1,7 @@
+{
+  "base_desc_mp3": "Extrahiert Audio aus einem Video und sendet es als MP3-Datei zurück.",
+  "base_tags_mp3": "audio, mp3, extract, video, convert, sound, voice, audio, extrahieren",
+  "base_help_mp3": "<b>🎧 Audio-Extraktionsbefehl /audio oder /mp3</b>\n\nExtrahiert die <b>Audiospur</b> aus jedem Video und sendet sie als MP3.\n\n<b>✅ Funktionen:</b>\n• Funktioniert mit Videos und Antworten.\n• Automatische MP3-Konvertierung.\n• Hohe Tonqualität bleibt erhalten.",
+  "base_examples_mp3": "• Auf ein Video antworten → /mp3\n• Video mit Beschreibung senden → /audio",
+  "base_desc_help_mp3": "🎧 Hilfe für den Befehl /audio oder /mp3."
+}
